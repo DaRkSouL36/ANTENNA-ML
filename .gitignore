@@ -1,3 +1,4 @@
 VENV/
+.venv
 __pycache__
 runtime.txt
